@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "tbctguop",
+    "password": "FJgKshA_2wNVAblZo2f4z_6zV585q0oS",
+    "database": "tbctguop",
+    "host": "motty.db.elephantsql.com",
+    "dialect": "postgres", 
+    "operatorsAliases": 0
+  },
+  "test": {
+    "username": "tbctguop",
+    "password": "FJgKshA_2wNVAblZo2f4z_6zV585q0oS",
+    "database": "tbctguop",
+    "host": "motty.db.elephantsql.com",
+    "dialect": "postgres", 
+    "operatorsAliases": 0
+  },
+  "production": {
+    "username": "tbctguop",
+    "password": "FJgKshA_2wNVAblZo2f4z_6zV585q0oS",
+    "database": "tbctguop",
+    "host": "motty.db.elephantsql.com",
+    "dialect": "postgres", 
+    "operatorsAliases": 0
+  }
+}
